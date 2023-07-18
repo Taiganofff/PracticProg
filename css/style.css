@@ -36,6 +36,8 @@ h1, p, a, h2 {
     font-family: Proxima Nova;
 }
 
+
+/* робив всі h2 одного стилю */
 h2 {
 
     font-size: 42px;
