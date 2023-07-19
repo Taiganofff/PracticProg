@@ -1,3 +1,4 @@
+//створення змінних
 let burger = document.querySelector('.burger')
 let mobile_menu = document.querySelector('.mobile_menu')
 
